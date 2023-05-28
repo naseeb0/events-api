@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "college": "Madan Bhandari",
+      "location": {
+        "latitude": 27.7172,
+        "longitude": 85.324
+      },
+      "level": 2,
+      "date": {
+        "year": 2023,
+        "month": 5,
+        "day": 28
+      },
+      "ratings": 4,
+      "viewport": {
+        "north": 4,
+        "south": 2,
+        "east": 2,
+        "west": 2
+      },
+      "workshop": "ReactNative",
+      "genre": "Web Development",
+      "image": "https://github.com/naseeb0/SpringBoot/assets/64632758/50bc0059-3744-41a3-bc46-720872bd641c"
+    },
+    [
+      {
+        "id": 1,
+        "college": "Madan Bhandari",
+        "location": {
+          "latitude": 27.7172,
+          "longitude": 85.324
+        },
+        "level": 2,
+        "date": {
+          "year": 2023,
+          "month": 5,
+          "day": 28
+        },
+        "ratings": 4,
+        "viewport": {
+          "north": 4,
+          "south": 2,
+          "east": 2,
+          "west": 2
+        },
+        "workshop": "ReactNative",
+        "genre": "Web Development",
+        "image": "https://github.com/naseeb0/SpringBoot/assets/64632758/50bc0059-3744-41a3-bc46-720872bd641c",
+        "desc":"A workshop on React Native"
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "college": "DWIT",
+        "location": {
+          "latitude": 27.7172,
+          "longitude": 85.324
+        },
+        "level": 2,
+        "date": {
+          "year": 2023,
+          "month": 5,
+          "day": 28
+        },
+        "ratings": 4,
+        "viewport": {
+          "north": 4,
+          "south": 2,
+          "east": 2,
+          "west": 2
+        },
+        "workshop": "ReactNative",
+        "genre": "Web Development",
+        "image": "https://github.com/naseeb0/SpringBoot/assets/64632758/50bc0059-3744-41a3-bc46-720872bd641c",
+        "desc":"A workshop on React Native"
+      }
+    ]
+  ]
+}
